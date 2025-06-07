@@ -1,4 +1,4 @@
-# Travel Bookings Tracker for Gmail (Agoda
+# Travel Bookings Tracker for Gmail (Agoda)
 
 A Google Apps Script that pulls your Agoda booking details from Gmail and saves them into a Google Sheet. It helps you keep track of your travel spending automatically.
 
